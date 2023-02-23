@@ -174,7 +174,7 @@ p {
 .intro-img img,
 .intro-img svg {
     max-width: 100%;
-    min-height: auto;
+    height: auto;
 }
 
 .top3-content {
@@ -184,7 +184,7 @@ p {
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .grid-one-content {
